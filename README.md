@@ -3,7 +3,7 @@ Dataset: You can download [here](https://docs.google.com/spreadsheets/d/1wwcaGVH
 Dashboard: The dashboard is available [here](https://lookerstudio.google.com/reporting/0c3d7314-f991-4c94-a477-f62ba2a36713).
 
 ## Dashboard Overview
-![OverviewImage](Sales-Report-Dashboard.jpg)
+![OverviewImage](Sales-Report-Dashboard2.jpg)
 
 ## Insights and Recommendations
 1. Monthly Revenue and Profit Trends\
